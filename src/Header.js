@@ -50,7 +50,7 @@ function header() {
             </div>
             <div className="header_right">
                 <div class="header_info">
-                    <Avatar />
+                    <Avatar src="https://avatars2.githubusercontent.com/u/63492955?s=400&u=c9a9bc192efd91ea667f62b6ef64576416213377&v=4" />
                     <h4>saaaf</h4>
                 </div>
                 <IconButton>
